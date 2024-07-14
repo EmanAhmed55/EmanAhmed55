@@ -1,12 +1,12 @@
 # Hello, I'm  Eman! 👋
 
-Welcome to my GitHub profile! I'm passionate about [your interests or field], and I enjoy working on projects that [describe what motivates you or your main goals]. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or suggestions.
+Welcome to my GitHub profile! I'm passionate about Software Engineering and Data science , and I enjoy working on projects that give me new skills. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or suggestions.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [List of programming languages you work with]
-- **Tools & Frameworks:** [Any specific tools or frameworks you specialize in]
-- **Databases:** [Databases you are familiar with]
+- **Languages:** C,C++,Java,Python,SQL,Javascript,HTML5,CSS and NodeJs
+- **Tools & Frameworks:** ReactJs ,Angular,Apache Kafka, Microsoft Excel , Microsoft PowerBI and Tableau
+- **Databases:** SQL Server ,Firebase and MongoDB
 
 ## 🌱 Current Projects
 
@@ -28,16 +28,3 @@ Welcome to my GitHub profile! I'm passionate about [your interests or field], an
 - **[Degree]** in **[Field of Study]** from **[University Name]** (Year Graduated)
   Additional certifications or relevant coursework.
 
-## 🌟 Fun Facts
-
-- [Interesting fact about yourself]
-- [Another interesting fact]
-
-## 📄 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername)
-
-## 📝 Recent Blog Posts
-
-- [Title of Blog Post](Link to Blog Post): Brief description of the blog post.
-- [Title of Blog Post](Link to Blog Post): Brief description of the blog post.
