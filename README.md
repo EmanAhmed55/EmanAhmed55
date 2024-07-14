@@ -18,12 +18,13 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering and Data
 - LinkedIn: www.linkedin.com/in/eman-a-597778215
 
 ## 💼 Professional Experience
-
-- **[Job Title]** at **[Company Name]** (Month Year - Present)
-  Description of your role and key achievements.
+- **Data Analyst Intern** at **ASDC** (Sep 2023 - Oct 2023)
+  doing projects in data analysis field uing Microsoft PowerBI.
+- **Web Developer Intern** at **SYNC INTERN'S ** (Dec 2023 - Jan 2024)
+  doing projects in web development field using HTML ,CSS and JavaScript.
 
 ## 🎓 Education
-
+- **Master's degree** in **Data Science** from **Helwan University**Currently studying
 - **Bachelor's degree** in **Computer Science and Artificial Intelligence** from **Helwan University**2023
-  Additional certifications or relevant coursework.
+
 
