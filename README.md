@@ -15,8 +15,7 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering and Data
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- LinkedIn: www.linkedin.com/in/eman-a-597778215
 
 ## 💼 Professional Experience
 
@@ -25,6 +24,6 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering and Data
 
 ## 🎓 Education
 
-- **[Degree]** in **[Field of Study]** from **[University Name]** (Year Graduated)
+- **Bachelor's degree** in **Computer Science and Artificial Intelligence** from **Helwan University**2023
   Additional certifications or relevant coursework.
 
