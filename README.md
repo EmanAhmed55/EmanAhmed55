@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about **Software Engineering** and 
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [linkedin.com/in/eman-a-597778215](https://www.linkedin.com/in/eman-a-597778215)
+- **LinkedIn**: [Eman’s LinkedIn Profile](https://www.linkedin.com/in/eman-a-597778215)
 
 ## 💼 Professional Experience
 
@@ -28,4 +28,5 @@ Welcome to my GitHub profile! I'm passionate about **Software Engineering** and 
 - **Bachelor's Degree** in Computer Science and Artificial Intelligence from Helwan University (2023)
 
 ---
+
 
