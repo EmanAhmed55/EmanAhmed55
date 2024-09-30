@@ -8,11 +8,6 @@ Welcome to my GitHub profile! I'm passionate about **Software Engineering** and 
 - **Tools & Frameworks**: React.js, Angular, Apache Kafka, Microsoft Excel, Microsoft Power BI, Tableau
 - **Databases**: SQL Server, Firebase, MongoDB
 
-## 🌱 Current Projects
-
-- [Project Name](Link to project repository): Brief description of the project.
-- [Project Name](Link to project repository): Brief description of the project.
-
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Eman’s LinkedIn Profile](https://www.linkedin.com/in/eman-a-597778215)
